@@ -25,11 +25,11 @@ database:
     database: test
 
   neo4j:
-    url: bolt://localhost:7687
+    url:7616540e.databases.neo4j.io:7687
     database: neo4j
-    username: neo4j
+    username: 3165144748@qq.com
     # 注意数字用引号括起来
-    password: 123456
+    password:"15243350758gJz"
 
   redis:
     host: localhost
